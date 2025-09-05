@@ -13,7 +13,6 @@ It provides a complete pipeline for generating, optimizing, and clustering text 
 > This repo currently contains only one source code. I will be updating the entire code once the paper is accepted.
 
 
-## DO NOT 
 
 ---
 
