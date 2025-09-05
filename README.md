@@ -8,6 +8,13 @@ This repository implements the framework presented in our paper:
 
 It provides a complete pipeline for generating, optimizing, and clustering text variants to support progressive vocabulary learning, with a focus on interpretability and educational usability.
 
+> ⚠️ **Notice**  
+> This project is currently under review for publication. Please do not copy, reproduce, or redistribute any part of the code or dataset without explicit permission.
+> This repo currently contains only one source code. I will be updating the entire code once the paper is accepted.
+
+
+## DO NOT 
+
 ---
 
 ## 📌 Overview
