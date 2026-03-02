@@ -1,3 +1,12 @@
+"""
+Citation for this work: 
+Deepika Verma, Daison Darlan, Rammohan Mallipeddi. ''Progressive Vocabulary Learning via Pareto-Optimal Clustering''.
+International Conference on ICT Convergence, South Korea (2025).
+
+@author: Deepika Verma
+"""
+
+
 import pandas as pd
 import numpy as np
 import os
