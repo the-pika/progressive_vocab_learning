@@ -120,9 +120,7 @@ A **representative text** from each cluster is selected using **centroid proximi
 
 ## Architecture
 
-```markdown
 ![Framework Architecture](prog_learn_framework.jpg)
-```
 
 ---
 
